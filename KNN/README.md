@@ -1,3 +1,3 @@
 # KNN documentation
 
-Jupyter Notebook file contains of source code for KNN-Classifier and different experiments with MNIST dataset.
+Jupyter Notebook file contains source code for KNN-Classifier and different experiments with MNIST dataset.
